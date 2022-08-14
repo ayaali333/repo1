@@ -1,0 +1,38 @@
+:root{
+    --dark-color:#000000;
+}
+#cards,
+.card-body,
+.btn,
+.sid-bar,
+#contact,
+body
+{
+    background-color: #140b0e;
+    
+}
+
+.home-page,
+.navbar{
+    background-color: var(--dark-color);
+
+}
+.nav-link,
+.navbar-brand,
+.navbar-toggler,
+.par,
+.title,
+.card-body,
+.btn,
+.page,
+h2{
+    color: #F582A7;
+
+}
+
+#contact{
+    height: 500px;
+}
+#con{
+    color:aliceblue;
+}
